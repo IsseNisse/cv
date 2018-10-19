@@ -53,11 +53,64 @@ h1 {
 	font-size: 35px;
 }
 
+h3 {
+	font-size: 23px;
+}
+
 #signatur {
 	font-family: 'Homemade Apple', cursive;
 	text-decoration: underline;
+	padding-left: 25em;
 }
 
 p {
 	font-family: 'Noto Sans', sans-serif;
+}
+
+b {
+	font-size: 18px;
+}
+
+.tab {
+	padding-left: 4em;
+}
+
+.tab2 {
+	padding-left: 7em;
+}
+
+.tab3 {
+	padding-left: 7.36em;
+}
+
+.tab4 {
+	padding-left: 7.25em;
+}
+
+.tab5 {
+	padding-left: 4.67em;
+}
+
+.tab6 {
+	padding-left: 2.97em;
+}
+
+.tab7 {
+	padding-left: 6.193em;
+}
+
+.tab8 {
+	padding-left: 6.45em;
+}
+
+.tab9 {
+	padding-left: 6.8em;
+}
+
+.tab10 {
+	padding-left: 3.15em;
+}
+
+.checked {
+	color: orange;
 }
