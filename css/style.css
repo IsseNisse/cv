@@ -1,6 +1,7 @@
 body {
-	background-color: rgba(255, 255, 255, 0.4);
+	background-color: rgba(255, 255, 255, 0.8);
 	margin: 5% 25%;
+	font-size: 16px;
 }
 
 
@@ -49,68 +50,55 @@ aside {
 }
 
 h1 {
-	font-family: 'Arbutus Slab', serif;
-	font-size: 35px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 3em;
 }
 
 h3 {
 	font-size: 23px;
+	font-family: "Times New Roman", Times, serif;
 }
 
 #signatur {
 	font-family: 'Homemade Apple', cursive;
 	text-decoration: underline;
-	padding-left: 25em;
+	text-align: right;
 }
 
 p {
-	font-family: 'Noto Sans', sans-serif;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.2em;
 }
 
 b {
 	font-size: 18px;
 }
 
+.storlek {
+	font-size: 18px;
+}
+
 .tab {
-	padding-left: 4em;
+	padding-left: 16.8em;
 }
 
 .tab2 {
-	padding-left: 7em;
+	padding-left: 2.2em;
 }
 
 .tab3 {
-	padding-left: 7.36em;
+	padding-left: 19.1em;
 }
 
 .tab4 {
-	padding-left: 7.25em;
+	padding-left: 8.3em;
 }
 
-.tab5 {
-	padding-left: 4.67em;
-}
-
-.tab6 {
-	padding-left: 2.97em;
-}
-
-.tab7 {
-	padding-left: 6.193em;
-}
-
-.tab8 {
-	padding-left: 6.45em;
-}
-
-.tab9 {
-	padding-left: 6.8em;
-}
-
-.tab10 {
-	padding-left: 3.15em;
+.bold {
+	font-weight: bold;
 }
 
 .checked {
 	color: orange;
 }
+
